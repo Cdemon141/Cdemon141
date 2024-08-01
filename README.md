@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ola seja bem-vindo 👋⚡
 
-<!--
-**Cdemon141/Cdemon141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu sou **Miguel** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Eu estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo ⚡
+
+00001105534418@al.educacao.sp.gov.br
+![](https://media.tenor.com/BpU3CRUPikMAAAAi/ultrakill-small.gif)
+
+![](https://media.tenor.com/OFXe1T45AFUAAAAi/kiss-music.gif)
